@@ -1,0 +1,5 @@
+https://javabeat.net/introduction-to-groovy-scripting-language/
+
+https://code-maven.com/groovy-read-csv-file
+
+https://www.tutorialspoint.com/groovy/
